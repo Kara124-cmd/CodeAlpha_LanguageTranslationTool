@@ -1,0 +1,6 @@
+
+these libaray are used in this app
+
+streamlit
+requests
+gTTS
